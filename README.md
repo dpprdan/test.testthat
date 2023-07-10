@@ -1,5 +1,5 @@
 
-# test-testthat
+# test.testthat
 
 <!-- badges: start -->
 <!-- badges: end -->

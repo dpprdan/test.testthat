@@ -8,4 +8,4 @@
 
 library(testthat)
 
-test_check("test-testthat")
+test_check("test.testthat")
